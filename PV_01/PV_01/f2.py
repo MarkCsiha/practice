@@ -1,0 +1,13 @@
+vz1 = input('1. Vezetéknév: ')
+vz2 = input('2. vezetéknév: ')
+kn1 = input('1. keresztnév: ')
+kn2 = input('2. keresztnév: ')
+
+print(f'{vz1} {kn1}')
+print(f'{vz2} {kn1}')
+print(f'{vz1} {kn2}')
+print(f'{vz2} {kn2}')
+print(f'{kn1} {vz1}')
+print(f'{kn1} {vz2}')
+print(f'{kn2} {vz1}')
+print(f'{kn2} {vz2}')

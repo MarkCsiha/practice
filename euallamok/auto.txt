@@ -1,0 +1,8 @@
+Opel Corsa;8,3;25;1992
+Ford Fiesta;6;30;2012
+Volvo S40;14;40;1982
+Ford Escort;8,6;35;1999
+Renault Thalia;7,2;40;2004
+Seat Leon;7,5;38;2005
+Ford Mondeo;5,6;41;2019
+Skoda Octavia;6,9;37;2011
